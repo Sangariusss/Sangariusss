@@ -16,7 +16,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sangarius-white?style=flat&logo=Gmail&logoColor=red)](#)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sangarius-white?style=flat&logo=Gmail&logoColor=red)](#)
 
 ---
 
